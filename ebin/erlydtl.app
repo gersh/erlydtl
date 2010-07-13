@@ -20,7 +20,8 @@
 	     i18n_manager,
 	     po_generator,
 	     po_scanner,
-	     sources_parser
+	     sources_parser,
+	     sources_parser_unittests
             ]},
   {applications, [kernel, stdlib]},
   {registered, []}
